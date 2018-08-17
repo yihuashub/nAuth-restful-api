@@ -11,6 +11,9 @@
 ### AWS root用户需要提示权限
 `sudo npm install -g electron --unsafe-perm=true --allow-root`
 
+### AWS ..
+[click here](https://github.com/kelektiv/node.bcrypt.js/issues/432#issuecomment-230595650)
+
 ### 运行
 `npm install`
 
