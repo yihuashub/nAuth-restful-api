@@ -6,6 +6,8 @@
 
 ### 安装
 `git clone https://github.com/Nicksapp/nAuth-restful-api.git`
+### AWS 需要先安装Python环境
+`https://github.com/kelektiv/node.bcrypt.js/wiki/Installation-Instructions#ubuntu-and-derivatives---elementary-linux-mint-etc`
 
 ### 运行
 `npm install`
